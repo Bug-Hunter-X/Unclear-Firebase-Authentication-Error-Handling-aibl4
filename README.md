@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, issue in Firebase Authentication: unclear error messages when invalid credentials or network problems occur during sign-in. The `firebaseBug.js` file shows the problematic code, while `firebaseBugSolution.js` provides a solution for improved error handling and more user-friendly feedback.
